@@ -37,7 +37,7 @@
         <li><a href="#brute-force-method">Brute Force Method</a></li>
         <li><a href="#hism-method">HISM Method</a></li>
       </ul>
-    <li><a href="#complexity">Complexity</a></li>
+    <li><a href="#complexity-analysis">Complexity Analysis</a></li>
       <ul>
         <li><a href="#brute-force-complexity">Brute Force Complexity</a></li>
         <li><a href="#hism-complexity">HISM Complexity</a></li>
