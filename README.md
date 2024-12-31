@@ -80,7 +80,7 @@ No packages needed outside the modules that ship with Python 3.
    ```sh
    git clone https://github.com/stphnpwrs/HISM-Jumble-Solver
    ```
-2. Download a word list file containing all possible words you wish to consider. For testing, I used the word list found [here](https://).
+2. Download a word list file containing all possible words you wish to consider. For testing, I used the word list found [here](https://github.com/dwyl/english-words/blob/master/words.txt).
 3. [OPTIONAL] Download any number of training files containing literature, transcripts, or any desired written media. 
 4. Run the command as outlined in <a href="#usage">Usage</a>
 
